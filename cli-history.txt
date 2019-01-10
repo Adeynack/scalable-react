@@ -1,0 +1,6 @@
+# Get the initial Boiler plate (forked for the purpose of the course)
+git clone git@github.com:hendrikswan/react-boilerplate.git scalable-react
+
+# Install dependencies & Set up the app & Clears the initial GIT setup.
+npm run setup
+
