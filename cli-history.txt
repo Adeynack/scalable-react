@@ -4,3 +4,5 @@ git clone git@github.com:hendrikswan/react-boilerplate.git scalable-react
 # Install dependencies & Set up the app & Clears the initial GIT setup.
 npm run setup
 
+# Remove built-in example
+npm run clean
