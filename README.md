@@ -14,5 +14,5 @@ This is not my boilerplate! **It's just a fork with a few tweaks for the course.
 npm start
 ```
 
-Open `localhost:3000`.
+Open `http://localhost:3000`.
 
