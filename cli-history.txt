@@ -6,3 +6,19 @@ npm run setup
 
 # Remove built-in example
 npm run clean
+
+# Create new component for navigation (app/components/Navigation)
+npm run generate component
+# Type:     Stateless Function
+# Called:   Navigation
+# Styling:  Yes
+# i18n:     No
+
+# Create new container for navigation (app/containers/NavigationContainer)
+npm run generate container
+# Called:   NavigationContainer
+# Headers:  No
+# Styling:  No
+# Tupel:    Yes
+# Sagas:    Yes
+# i18n:     No
