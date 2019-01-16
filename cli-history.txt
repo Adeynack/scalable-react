@@ -38,3 +38,10 @@ npm run generate container
 # Tupel:    Yes
 # Sagas:    Yes
 # i18n:     No
+
+# Create new component for (app/components/AppBar)
+npm run generate component
+# Type:     Stateless Function
+# Called:   AppBar
+# Styling:  Yes
+# i18n:     No
