@@ -45,3 +45,16 @@ npm run generate component
 # Called:   AppBar
 # Styling:  Yes
 # i18n:     No
+
+# Install font-awesome for React
+npm i react-fontawesome --save
+
+# Create new component for the left-side drawer menu (app/components/Drawer)
+npm run generate component
+# Type:     Stateless Function
+# Called:   Drawer
+# Styling:  Yes
+# i18n:     No
+
+# Install ClassNames
+npm i classnames@2.2.5 --save
