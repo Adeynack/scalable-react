@@ -58,3 +58,10 @@ npm run generate component
 
 # Install ClassNames
 npm i classnames@2.2.5 --save
+
+# Create new component for links (app/components/Link)
+npm run generate component
+# Type:     Stateless Function
+# Called:   Drawer
+# Styling:  Yes
+# i18n:     No
