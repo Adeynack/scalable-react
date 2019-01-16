@@ -8,6 +8,7 @@ import {
   REQUEST_TOPICS,
   REQUEST_TOPICS_SUCCEEDED,
   REQUEST_TOPICS_FAILED,
+  SELECT_TOPIC,
 } from './constants';
 
 export const requestTopics = () => ({
@@ -22,4 +23,9 @@ export const requestTopicsSucceeded = (topics) => ({
 export const requestTopicsFailed = (message) => ({
   type: REQUEST_TOPICS_FAILED,
   message,
+});
+
+export const selectTopic = (topic) => ({
+  type: SELECT_TOPIC,
+  topic,
 });

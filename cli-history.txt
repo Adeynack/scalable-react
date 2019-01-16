@@ -22,3 +22,19 @@ npm run generate container
 # Tupel:    Yes
 # Sagas:    Yes
 # i18n:     No
+
+# Create new component for list of links (app/components/LinkList)
+npm run generate component
+# Type:     Stateless Function
+# Called:   LinkList
+# Styling:  Yes
+# i18n:     No
+
+# Create new container for list of links (app/containers/LinkListContainer)
+npm run generate container
+# Called:   LinkListContainer
+# Headers:  No
+# Styling:  No
+# Tupel:    Yes
+# Sagas:    Yes
+# i18n:     No

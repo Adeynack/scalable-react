@@ -1,5 +1,9 @@
 # Redux-Saga Notes
 
+## Links
+
+- [API Documentation](https://redux-saga.js.org/docs/api/)
+
 ## Effects
 
 ### [call](https://redux-saga.js.org/docs/api/#callfn-args)
