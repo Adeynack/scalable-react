@@ -1,5 +1,6 @@
 {
   "files.associations": {
     "*.css": "postcss"
-  }
+  },
+  "python.pythonPath": "/usr/local/bin/python3"
 }
