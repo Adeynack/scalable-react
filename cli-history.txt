@@ -65,3 +65,8 @@ npm run generate component
 # Called:   Drawer
 # Styling:  Yes
 # i18n:     No
+
+# Create a new route
+npm run generate route
+# Show:     LinkListContainer
+# Path:     /topics/:topicName
